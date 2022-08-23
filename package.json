@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/VarScript/course-ecmascript/issues"
   },
-  "homepage": "https://github.com/VarScript/course-ecmascript#readme"
+  "homepage": "https://github.com/VarScript/course-ecmascript#readme",
+  "type":"module"
 }
