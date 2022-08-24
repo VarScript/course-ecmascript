@@ -1,6 +1,3 @@
-
-import 'package.json/core-js/features/array/at';
-
 const array = ['one', 'two', 'three', 'four', 'five', 'six'];
 
 
