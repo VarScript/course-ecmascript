@@ -20,5 +20,8 @@
     "url": "https://github.com/VarScript/course-ecmascript/issues"
   },
   "homepage": "https://github.com/VarScript/course-ecmascript#readme",
-  "type":"module"
+  "type": "module",
+  "dependencies": {
+    "core-js": "^3.24.1"
+  }
 }
